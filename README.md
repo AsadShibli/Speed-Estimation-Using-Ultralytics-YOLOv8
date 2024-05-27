@@ -6,6 +6,7 @@ This repository contains code for estimating the speed of vehicles using Ultraly
 
 ## Demo
 
+https://github.com/AsadShibli/Speed-Estimation-Using-Ultralytics-YOLOv8/assets/119102237/57d76f84-0186-4c82-a5a1-a3cbe7952379
 
 ## Requirements
 
